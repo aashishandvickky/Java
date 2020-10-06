@@ -1,0 +1,22 @@
+Q1.What is OOPS?
+Q2.What is Real World/Time Entity?
+Q3.Usage of OOPS?
+Q4.What is Inheritance?
+Q5.What is Static?
+Q6.String vs StringBuilder?
+Q7.Use of equals method defined in object class?
+Q8.String vs StringBuffer vs StringBuilder?
+Q9.ArrayList vs LinkedList?
+Q10.For vs ForEach?
+Q11.Types of Set in collection?
+Q12.What is Exception?
+Q13.Method overloading vs overriding ?
+Q14.MultiDimensional Array?
+Q15.What is Encapsulation and Advantages of it?
+Q16.Use of New keyword?
+Q17.Signature of creating a Object?
+Q18.What is Dynamic method dispatch?(What is RunTime Polymorphism)!
+Q19.What is Collection?
+Q20.Comparable vs Comparator?
+Q21.How the Uniqueness is maintained in HashSet and in TreeSet?
+Q22.What is Final keyword in java.(Final var, Final method , Final Class)?
