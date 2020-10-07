@@ -1,13 +1,11 @@
 /* 64. Write a program to count no of words in a text file and average word size.
  */
 
-package p61_67;
-
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class q64 {
+public class Q64 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
