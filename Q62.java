@@ -2,8 +2,6 @@
  * using  Runnable interface.
  */
 
-package p61_67;
-
 import java.util.Scanner;
 
 class CheckPrime implements Runnable{
@@ -28,7 +26,7 @@ class CheckPrime implements Runnable{
 	}
 }
 
-public class q62 {
+public class Q62 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
