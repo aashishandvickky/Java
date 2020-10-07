@@ -1,7 +1,5 @@
-/* 63. Write a program to count how many times character ‘t’ occurs in a file. 
+/* 63. Write a program to count how many times character â€˜tâ€™ occurs in a file. 
  */
-
-package p61_67;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -9,7 +7,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class q63 {
+public class Q63 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
