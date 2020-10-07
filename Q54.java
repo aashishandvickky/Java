@@ -3,7 +3,7 @@
  */
 import java.util.Scanner;
 
-public class q54 {
+public class Q54 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
