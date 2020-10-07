@@ -10,8 +10,6 @@
  *  ask user to enter number of lines to print.
  */
 
-package p61_67;
-
 import java.util.Scanner;
 
 class MyThread extends Thread{
@@ -38,7 +36,7 @@ class MyThread extends Thread{
 }
 
 
-public class q61 {
+public class Q61 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
