@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class q53 {
+public class Q53 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
