@@ -46,7 +46,7 @@ class CurrentAcc extends Account{
 	}
 }
 
-public class q51 {
+public class Q51 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
