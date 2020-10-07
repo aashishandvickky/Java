@@ -2,11 +2,9 @@
  * 
  */
 
-package p51_60;
-
 import java.util.Scanner;
 
-public class q57 {
+public class Q57 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
