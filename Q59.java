@@ -1,9 +1,7 @@
 /* 59. Create a class Voter(voterId, name, age) with parameterized constructor.  
 The parameterized constructor should throw a checked exception if age is less than 18.
-The message of exception is ìinvalid age for voter î 
+The message of exception is ‚Äúinvalid age for voter ‚Äù 
 */
-
-package p51_60;
 
 import java.util.Scanner;
 
@@ -28,7 +26,7 @@ class Voter {
 	}
 }
 
-public class q59 {
+public class Q59 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
