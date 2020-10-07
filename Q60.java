@@ -38,7 +38,7 @@ public class Q60 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub.
 		try {
-		Student s1 = new Student("Adinath");
+		Student s1 = new Student("Ashish");
 		System.out.println(s1.getFee());
 		}
 		catch(Exception e) {
