@@ -2,7 +2,6 @@
  * print sum of all integer values. “67, 89, 23, 67, 12, 55, 66”. 
  *   (Hint use String class split method and Integer class parseInt method) .
  */
-package p51_60;
 
 import java.util.Scanner;
 
