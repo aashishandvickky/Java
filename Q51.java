@@ -6,9 +6,6 @@
  *    o can not withdraw the amount from the account that makes balance less than the minimum balance. 
  */
 
-package p51_60;
-
-
 import java.util.Scanner;
 
 abstract class Account{
