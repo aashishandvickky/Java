@@ -4,7 +4,6 @@
  *   with members (name, fees) and implement the StudentFee Interface.
  */
 
-package p51_60;
 
 import java.util.Scanner;
 
@@ -34,7 +33,7 @@ class Student implements StudentFee{
 
 }
 
-public class q60 {
+public class Q60 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub.
