@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class q52 {
+public class Q52 {
 	
 	static int countVowel(String str) {
 		int count = 0;
