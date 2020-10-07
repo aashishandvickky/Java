@@ -1,8 +1,6 @@
 /* 52. Input name of a person and count how many vowels it contains.  Use String class functions.
  */
 
-package p51_60;
-
 import java.util.Scanner;
 
 public class q52 {
