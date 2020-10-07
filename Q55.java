@@ -2,8 +2,6 @@
  * 
  */
 
-package p51_60;
-
 import java.util.Scanner;
 
 public class q55 {
