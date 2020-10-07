@@ -10,7 +10,7 @@ public class Q64 {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		try {
-			FileReader r = new FileReader("D:\\Adinath\\ACDAC\\java\\prac\\file1.txt");
+			FileReader r = new FileReader("D:\\Ashish\\DAC\\Java\\file1.txt");
 			int ch = -1;
 			String s = "";
 			while((ch = r.read()) != -1) {
