@@ -4,8 +4,6 @@
  * b. Display all employee info using toString method.
  */
 
-package p51_60;
-
 import java.util.Scanner;
 
 class Employee {
