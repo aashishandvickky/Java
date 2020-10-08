@@ -3,9 +3,6 @@
  *  (Use ObjectOutputStream to store Item class object ). 
  */
 
-package p61_67;
-
-
 
 	import java.awt.image.BufferedImage;
 	import java.io.ByteArrayInputStream;
@@ -16,7 +13,7 @@ package p61_67;
 	import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 	 
 	 
-	public class q65 {
+	public class Q65 {
 		public static void main(String[] args) throws IOException{
 			String dirName="C:\\Users\\Admin\\OneDrive\\Pictures\\Screenshots";
 			ByteArrayOutputStream baos=new ByteArrayOutputStream(1000);
